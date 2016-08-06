@@ -1,0 +1,29 @@
+_repo: Arbetets-Herrav-lde_9951
+_version: 0.0.1
+alternative_title: The Empire of Business. Swedish
+creator:
+  author:
+    agent_name: Carnegie, Andrew
+    birthdate: 1835
+    deathdate: 1919
+    gutenberg_agent_id: '2029'
+    url: http://www.gutenberg.org/2009/agents/2029
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Carnegie
+description: 'Translation of: The Empire of Business'
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9951'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Success in business'
+- !lcsh 'Business'
+- !lcsh 'United States -- Economic conditions'
+- !lcsh 'Wealth'
+- !lcc 'HF'
+- GITenberg
+title: Arbetets Herravälde
+url: http://www.gutenberg.org/ebooks/9951
