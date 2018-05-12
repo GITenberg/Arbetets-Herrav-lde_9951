@@ -1,6 +1,9 @@
 _repo: Arbetets-Herrav-lde_9951
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: The Empire of Business. Swedish
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Carnegie, Andrew
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2029
     wikipedia: http://en.wikipedia.org/wiki/Andrew_Carnegie
 description: 'Translation of: The Empire of Business'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9951#Arbetets-Herrav-lde
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
 identifiers:
